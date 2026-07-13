@@ -1,3 +1,8 @@
+package Day 20;
+
+public class SelectionSortDescending {
+    
+}
 public class SelectionSortDescending {
     public static void main(String[] args) {
         int arr[] = {64, 25, 12, 22, 11};
